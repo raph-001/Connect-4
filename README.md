@@ -1,4 +1,4 @@
 # Connect-4
-Connect 4 game using pygame
+Jeu de connect 4
 
-Simple python connect 4 game using pygame.
+Jeu connect 4 en utilisant python et pygame pour les graphismes.
